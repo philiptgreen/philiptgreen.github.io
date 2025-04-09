@@ -21,7 +21,19 @@ background-color: #f4f4f4;
 <body>
     <h1>gradebook</h1>
     <table id="gradebook">
-    </table?
+    <thead>
+    <tr>
+        <th>student name</th>
+        <th>assignment 1</th>
+        <th>assignment 2</th>
+        <th>assignment 3</th>
+<!--add more assignment collumns as needed-->
+</tr>
+</thead>
+<tbody>
+<!--rows will be populated dynamically with javascript-->
+</tbody>
+</table?
 <script src="gradebook.js"></script>
 </body>
 </html>
