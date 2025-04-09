@@ -33,7 +33,7 @@ background-color: #f4f4f4;
 <tbody>
 <!--rows will be populated dynamically with javascript-->
 </tbody>
-</table?
+</table>
 <script src="gradebook.js"></script>
 </body>
 </html>
